@@ -3,4 +3,4 @@ Description: R codes for statistics and make figure.
 
 Author: Lei Hao
 
-Email: rock3.hao#gmail.com
+Email: hao1ei@foxmail.com
